@@ -1,6 +1,6 @@
 ## 👋 Hi there, I’m Lev
 ![](https://komarev.com/ghpvc/?username=LevKharl)
-- 👨🏻‍💻 2-year student at ITMO Universuty, field Robotics
+- 👨🏻‍💻 3-year student at Metropolia UAS, field Iot & Networks and ITMO University, field Robotics & AI
 - 👀 I’m interested in different projects, especially in DS and ML
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on all types of projects
