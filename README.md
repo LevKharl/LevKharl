@@ -4,7 +4,7 @@
 - 👀 I’m interested in different projects, especially in DS and ML
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on all types of projects
-- 📫 How to reach me: telegram @levkharl, gmail levkharlashkin@gmail.com
+- 📫 How to reach me: LinkedIn www.linkedin.com/in/lkharlashkin, gmail levkharlashkin@gmail.com
 
 <!---
 LevKharl/LevKharl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
