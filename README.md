@@ -1,8 +1,8 @@
 ## 👋 Hi there, I’m Lev
 ![](https://komarev.com/ghpvc/?username=LevKharl)
-- 👨🏻‍💻 4-year student at Metropolia UAS, field IoT & Networks and ITMO University, field Robotics & AI
+- 👨🏻‍💻 Graduate from Metropolia UAS & ITMO University (Bachelor's of Engineering)
 - 👀 I’m interested in different projects, especially in DS and ML
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently learning GenAI
 - 💞️ I’m looking to collaborate on all types of projects
 - 📫 How to reach me: LinkedIn www.linkedin.com/in/lkharlashkin, gmail levkharlashkin@gmail.com
 
